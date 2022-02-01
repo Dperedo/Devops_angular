@@ -7,7 +7,7 @@ metadata:
 spec:
   selector:
    app: angular-front
-  type: NodePort 
+  type: NodePort
   ports:
    - port: 81
      nodePort: 30101
