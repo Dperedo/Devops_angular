@@ -1,0 +1,10 @@
+{
+  "name": "Pedidos-mobile",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
